@@ -18,8 +18,8 @@ I have experience in
 
 ## Connect with me
 
-[<img align="left" alt="linked-in" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)" />]([https://www.linkedin.com/in/victorlunajust/](https://www.linkedin.com/in/victorlunajust/))
-
-[<img align="left" alt="twitter" src="[https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)" />]([https://twitter.com/justmoon79](https://twitter.com/justmoon79))
-
-[<img align="left" alt="gmail" src="[https://img.shields.io/badge/-GMAIL-red?&logo=gmail&logoColor=white](https://img.shields.io/badge/-GMAIL-red?&logo=gmail&logoColor=white)" />]([mailto:lunavictor@gmail.com](mailto:lunavictor@gmail.com))
+[<img align="left" alt="linked-in" style="margin:1px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victorlunajust)
+&nbsp; 
+[<img align="left" alt="twitter"  style="margin:1px" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/justmoon79)
+&nbsp; 
+[<img align="left" alt="gmail"  style="margin:1px" src="https://img.shields.io/badge/-GMAIL-red?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:lunavictor@gmail.com)
