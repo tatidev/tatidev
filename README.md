@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello World!
 
-<!--
-**tatidev/tatidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a software engineer - freelance turned IT manager. Continuously training myself in new technologies.
 
-Here are some ideas to get you started:
+I´m currently learning:
+* Solidity and the blockchain world.
+* ReactJs
+* Cloud Computing (AWS) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience in
+* Oracle PLSQL
+* .NET framework
+* C#
+* PHP
+* Javascript
+* CSS sass
+
+
+## Connect with me
+
+[<img align="left" alt="linked-in" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white]" />]
+([https://www.linkedin.com/in/mohammad-faisal-2665b5134])
+
+[<img align="left" alt="twitter" src="[https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white]" />]
+([https://twitter.com/justmoon79])
+
+[<img align="left" alt="gmail" src="[https://img.shields.io/badge/-GMAIL-red?&logo=gmail&logoColor=white]" />]
+([mailto:lunavictor@gmail.com])
+
