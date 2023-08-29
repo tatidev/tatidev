@@ -1,13 +1,11 @@
-# Hello World!
-
 Hi! I'm a software engineer - freelance turned IT manager. Continuously training myself in new technologies.
 
 I´m currently learning:
 * Solidity and the blockchain world.
-* ReactJs
-* Cloud Computing (AWS) 
 
 I have experience in
+* ReactJs
+* Cloud Computing (AWS) 
 * Oracle PLSQL
 * .NET framework
 * C#
